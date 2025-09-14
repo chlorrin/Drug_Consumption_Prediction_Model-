@@ -51,7 +51,3 @@ Evaluasi menunjukkan hasil prediksi yang cukup baik dengan kombinasi **akurasi**
 ## Kesimpulan
 
 Analisis ini menunjukkan bahwa data kepribadian dan psikologi dapat digunakan sebagai indikator dalam membangun model prediksi konsumsi narkoba. Model dapat membantu penelitian dan edukasi terkait faktor risiko penyalahgunaan narkoba.
-
----
-
-Apakah Anda mau saya buatkan juga **versi singkat** (1–2 paragraf saja) supaya lebih ringkas untuk README, atau lebih suka yang detail seperti di atas?
