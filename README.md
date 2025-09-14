@@ -1,4 +1,4 @@
-# Drug Consumption Classification - Final Exam
+# Drug Consumption Classification
 
 ## Deskripsi
 
